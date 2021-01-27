@@ -208,10 +208,12 @@ logging.file=C:/elk/spring-boot-elk.log
 
 >localhost:8080/exception
 
-访问 kibana-ui (http://localhost:5601/), 定义索引规则
+## 访问 kibana-ui (http://localhost:5601/) 
 
-菜单入口：
+定义索引规则，菜单入口：
 management -> index pattern -> create index pattern -> 输入 logstash-*
+
+end
 
 
 
