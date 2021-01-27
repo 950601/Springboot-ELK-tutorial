@@ -211,7 +211,9 @@ logging.file=C:/elk/spring-boot-elk.log
 ## 访问 kibana-ui (http://localhost:5601/) 
 
 -定义索引规则，菜单入口：
+
 -management -> index pattern -> create index pattern -> 输入 logstash-*
+
 -接下来便可在kibana查看，logstash输出的日志
 
 **结束**
