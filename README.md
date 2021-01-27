@@ -84,6 +84,10 @@ output {
 }
 ```
 
+进入安装bin目录，输入如下命令，启动logstash服务
+
+>logstash.bat -f logstash.conf
+
 ## 创建springboot项目，用来生成日志
 
 定义pom.xml如下：
@@ -197,6 +201,19 @@ class ELKController {
 ```
 logging.file=C:/elk/spring-boot-elk.log
 ```
+
+启动项目，访问日志生成接口，日志将被生成在 C:/elk/spring-boot-elk.log
+
+>localhost:8080/elk
+
+>localhost:8080/exception
+
+访问 kibana-ui (http://localhost:5601/), 定义索引规则
+
+菜单入口：
+management -> index pattern -> create index pattern -> 输入 logstash-*
+
+
 
 
 
