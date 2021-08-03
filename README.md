@@ -55,7 +55,7 @@ input {
     codec => multiline {
       pattern => "^%{YEAR}-%{MONTHNUM}-%{MONTHDAY} %{TIME}.*"
       negate => "true"
-      what => "previous"
+      what => "previous" 
     }
   }
 }
