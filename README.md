@@ -4,7 +4,7 @@ Elasticsearch, Logstash, and Kibana Hello World Example 本例使用的版本号
 ## 安装Elasticsearch
 地址： (https://www.elastic.co/downloads/elasticsearch)
 
-windows 运行方法： 
+windows 运行方法：  
 >点击 elasticsearch.bat
  
 启动成功后，浏览器输入localhost:9200，返回如下代码说明启动成功： 
