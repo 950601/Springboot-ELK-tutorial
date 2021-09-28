@@ -196,7 +196,7 @@ class ELKController {
 }
 ```
 
-修改application.properties或 application.yml, 添加日志文件的位置
+修改application.properties或 application.yml, 添加日志文件的位置 
 
 ```
 logging.file=C:/elk/spring-boot-elk.log
