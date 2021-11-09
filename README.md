@@ -4,7 +4,7 @@ Elasticsearch, Logstash, and Kibana Hello World Example 本例使用的版本号
 ## 安装Elasticsearch
 地址： (https://www.elastic.co/downloads/elasticsearch)
 
-windows 运行方法：   
+windows 运行方法：    
 
 >点击 elasticsearch.bat
    
@@ -26,8 +26,8 @@ windows 运行方法：
     "tagline": "You Know, for Search"  
 }
 ```
-
-
+ 
+ 
 ## 安装Kibana
 地址： (https://www.elastic.co/downloads/kibana)
 
