@@ -12,7 +12,7 @@ windows 运行方法：
 ``` 
 {     
     "name": "_UwRJxM",  
-    "cluster_name": "elasticsearch",   
+    "cluster_name": "elasticsearch",    
     "cluster_uuid": "DfWELZcWRuWggCxtaee1YA",  
     "version": {   
         "number": "6.2.2",  
@@ -29,7 +29,7 @@ windows 运行方法：
  
  
 ## 安装Kibana 
-地址： (https://www.elastic.co/downloads/kibana) 
+地址： (https://www.elastic.co/downloads/kibana)  
 
 修改kibana.yml配置文件，新增如下配置：  
 
