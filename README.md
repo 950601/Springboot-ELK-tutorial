@@ -11,7 +11,7 @@ windows 运行方法：
 启动成功后，浏览器输入localhost:9200，返回如下代码说明启动成功：       
 ``` 
 {     
-    "name": "_UwRJxM",   
+    "name": "_UwRJxM",    
     "cluster_name": "elasticsearch",    
     "cluster_uuid": "DfWELZcWRuWggCxtaee1YA",  
     "version": {   
