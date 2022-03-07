@@ -74,7 +74,7 @@ filter {
  
 output {
    
-  stdout {
+  stdout { 
     codec => rubydebug
   }
  
