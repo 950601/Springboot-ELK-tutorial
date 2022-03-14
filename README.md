@@ -27,7 +27,7 @@ windows 运行方法：
 }
 ``` 
  
-  
+   
 ## 安装Kibana  
 地址： (https://www.elastic.co/downloads/kibana)  
  
