@@ -12,7 +12,7 @@ windows 运行方法：
 ```   
 {      
     "name": "_UwRJxM",    
-    "cluster_name": "elasticsearch",    
+    "cluster_name": "elasticsearch",     
     "cluster_uuid": "DfWELZcWRuWggCxtaee1YA",  
     "version": {   
         "number": "6.2.2",  
