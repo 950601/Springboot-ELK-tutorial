@@ -16,7 +16,7 @@ windows 运行方法：
     "cluster_uuid": "DfWELZcWRuWggCxtaee1YA",  
     "version": {   
         "number": "6.2.2",  
-        "build_hash": "10b1edd",  
+        "build_hash": "10b1edd",   
         "build_date": "2018-02-16T19:01:30.685723Z",  
         "build_snapshot": false,  
         "lucene_version": "7.2.1",  
