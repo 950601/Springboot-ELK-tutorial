@@ -14,7 +14,7 @@ windows 运行方法：
     "name": "_UwRJxM",    
     "cluster_name": "elasticsearch",      
     "cluster_uuid": "DfWELZcWRuWggCxtaee1YA",  
-    "version": {   
+    "version": {    
         "number": "6.2.2",  
         "build_hash": "10b1edd",   
         "build_date": "2018-02-16T19:01:30.685723Z",  
