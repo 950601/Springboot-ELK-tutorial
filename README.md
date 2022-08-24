@@ -13,7 +13,7 @@ windows 运行方法：
 {       
     "name": "_UwRJxM",    
     "cluster_name": "elasticsearch",      
-    "cluster_uuid": "DfWELZcWRuWggCxtaee1YA",  
+    "cluster_uuid": "DfWELZcWRuWggCxtaee1YA",   
     "version": {    
         "number": "6.2.2",  
         "build_hash": "10b1edd",   
