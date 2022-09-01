@@ -20,7 +20,7 @@ windows 运行方法：
         "build_date": "2018-02-16T19:01:30.685723Z",  
         "build_snapshot": false,  
         "lucene_version": "7.2.1",  
-        "minimum_wire_compatibility_version": "5.6.0",  
+        "minimum_wire_compatibility_version": "5.6.0",   
         "minimum_index_compatibility_version": "5.0.0"  
     },  
     "tagline": "You Know, for Search"  
