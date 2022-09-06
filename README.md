@@ -3,7 +3,7 @@ Elasticsearch, Logstash, and Kibana Hello World Example 本例使用的版本号
  
 ## 安装Elasticsearch     
 地址： (https://www.elastic.co/downloads/elasticsearch)       
-           
+            
 windows 运行方法：               
          
 >点击 elasticsearch.bat             
@@ -75,7 +75,7 @@ filter {
 output {
    
   stdout { 
-    codec => rubydebug
+    codec => rubydebug 
   }
  
   # Sending properly parsed log events to elasticsearch
