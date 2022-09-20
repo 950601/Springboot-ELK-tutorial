@@ -26,7 +26,7 @@ windows 运行方法：
     "tagline": "You Know, for Search"  
 }
 ```  
- 
+  
     
 ## 安装Kibana  
 地址： (https://www.elastic.co/downloads/kibana)  
